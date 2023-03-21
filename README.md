@@ -11,5 +11,5 @@
 ### Check me out on:
 placeholder
 
-### ...or just send me a message:
+### ...or just leave a message:
 placeholder
