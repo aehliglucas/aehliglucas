@@ -9,4 +9,6 @@
 - ✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.
 
 ### Check my portfolio:
-placeholder
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://img.shields.io/badge/This%20way---%3E-blue?style=for-the-badge" alt="Open my portfolio">
+</a>
