@@ -8,8 +8,5 @@
 - ⚙️ Currently mainly working with Ansible, Python, NodeJS and in SUSE administration
 - ✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.
 
-### Check me out on:
-placeholder
-
-### ...or just leave a message:
+### Check my portfolio:
 placeholder
