@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I am Lucas! 👋
 
-<!--
-**aehliglucas/aehliglucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/aehliglucas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<!--<img src="https://github.com/aehliglucas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />-->
+</a>
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Cloud Engineer at NTT DATA Business Solutions
+- 📌 Based in Dresden / Germany
+- 🌱 Currently learning: VMware ESX, AWS and a bit of project management
+- ⚙️ Currently mainly working with Ansible, Python, NodeJS and in SUSE administration
+- ✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.
+
+### Feel free to reach out:
+[lucas@aehlig.com](mailto:lucas@aehlig.com)
