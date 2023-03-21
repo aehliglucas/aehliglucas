@@ -8,5 +8,8 @@
 - ⚙️ Currently mainly working with Ansible, Python, NodeJS and in SUSE administration
 - ✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.
 
-### Feel free to reach out:
-[lucas@aehlig.com](mailto:lucas@aehlig.com)
+### Check me out on:
+placeholder
+
+### ...or just send me a message:
+placeholder
