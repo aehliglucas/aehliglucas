@@ -1,3 +1,5 @@
+![welcome](https://github.com/aehliglucas/aehliglucas/blob/main/github_hello.gif)
+
 ### Hi there, I am Lucas! 👋
 
 ### ✏️ About me:
