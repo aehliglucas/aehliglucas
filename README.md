@@ -6,8 +6,7 @@
 
 - 💻 Cloud Engineer at NTT DATA Business Solutions
 - 📌 Based in Dresden / Germany
-- 🌱 Currently learning: VMware ESX, AWS and a bit of project management
-- ⚙️ Currently mainly working with Ansible, Python, NodeJS and in SUSE administration
+- 🌱 Currently learning: Golang, Azure and a bit of project management
 - ✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.<br><br>
 
 ### 📝 Looking for further info? Check my portfolio:
