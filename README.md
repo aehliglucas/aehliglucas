@@ -4,10 +4,10 @@
 
 ### About me:
 
-💻 Cloud Engineer at NTT DATA Business Solutions<br />
-📌 Based in Dresden / Germany<br />
-🌱 Currently learning: Golang, Azure and a bit of project management<br />
-✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.<br><br>
+💻 Cloud Engineer at NTT DATA Business Solutions<br>
+📌 Based in Dresden / Germany<br>
+🌱 Currently learning: Golang, Azure and a bit of project management<br>
+✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.<br>
 
 ### Looking for further info? Check my portfolio:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
