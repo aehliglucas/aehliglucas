@@ -4,9 +4,9 @@
 
 ### About me:
 
-💻 Cloud Engineer at NTT DATA Business Solutions<br>
+💻 Senior Cloud Engineer at NTT DATA Business Solutions<br>
 📌 Based in Dresden / Germany<br>
-🌱 Currently learning: Golang, Azure and lots of project management<br>
+🌱 Currently learning: Crossplane, Embedded Systems<br>
 ✈️ If there is free time in between projects, I love to spend it for aviation and flight simulation.<br>
 
 ### Looking for further info? Check my portfolio:
